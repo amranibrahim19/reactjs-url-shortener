@@ -5,3 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # API
 API using strapi
 https://strapi.io/
+
+# UI
+Tailwind CSS 
+https://tailwindcss.com/
